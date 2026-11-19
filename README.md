@@ -1,4 +1,4 @@
-# US Housing Price Explorer
+# US_Housing_Explorer
 
 Explore and estimate US home prices from public sales data.
 
